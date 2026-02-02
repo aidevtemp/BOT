@@ -1,2 +1,0 @@
-# BOT
-A SIMPEL BOT
